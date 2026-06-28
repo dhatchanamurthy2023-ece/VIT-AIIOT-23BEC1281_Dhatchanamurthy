@@ -1,5 +1,14 @@
 # Smart City Monitoring and Automation System
 
+## Demo Video
+
+The demonstration video is included in this repository as **Video Demo IIoT.mp4**.
+
+If the video preview is not available in GitHub, you can watch or download it using the Google Drive link below:
+
+**Google Drive:**  
+https://drive.google.com/file/d/1q_U8FTuyeudwHykjavoy5ibFnU8Utwjw/view?usp=sharing
+
 ### Cisco Packet Tracer Project
 
 **Course:** Certificate in Industrial IoT Architecture and Applications  
