@@ -1,55 +1,62 @@
 # Smart City Monitoring and Automation System
 
-## Industrial Internet of Things (IIoT)
+### Cisco Packet Tracer Project
 
-### Aim
-To design and implement a Smart City Monitoring and Automation System using Cisco Packet Tracer that provides intelligent surveillance, smart street lighting, and restricted area monitoring through IoT-based automation.
+**Course:** Certificate in Industrial IoT Architecture and Applications  
+**Organization:** L&T EduTech
+
+---
+
+## Aim
+
+To design and implement a Smart City Monitoring and Automation System using Cisco Packet Tracer that enhances urban safety, security, and energy efficiency through IoT-based automation.
 
 ---
 
 ## Problem Statement
-Develop an intelligent urban monitoring system that automates surveillance and lighting using IoT sensors and actuators. The system should detect motion, monitor secure locations, improve public safety, and reduce energy consumption.
+
+Modern cities require intelligent monitoring systems to improve public safety, optimize energy consumption, and automate surveillance. Traditional systems often rely on manual monitoring and continuously powered street lighting, leading to inefficient resource utilization. This project develops a Smart City Monitoring and Automation System that integrates IoT sensors, actuators, and a Central IoT Gateway to automate surveillance, street lighting, and restricted area monitoring based on real-time events.
 
 ---
 
-## Features
+## Scope of the Solution
+
+The proposed system automates three major smart city applications:
+
 - Government Building Entrance Monitoring
 - Smart Street Lighting
 - Restricted Area Monitoring
-- Central IoT Gateway
-- Administrator Mobile Monitoring
-- Automatic Device Control
+
+The system provides centralized monitoring using an Administrator Mobile connected to the Central IoT Gateway. Sensor-based automation improves security while reducing unnecessary energy consumption.
 
 ---
 
-## System Modules
+## System Architecture
+
+The system consists of a Central IoT Gateway connected wirelessly to multiple IoT sensors and actuators.
 
 ### Government Building Entrance
 - Motion Detector
-- Automatic Door
+- Automatic Entrance Door
 - Security Camera
 
-**Function:**
-Camera turns ON when motion is detected or the entrance door is opened.
-
----
+**Function:**  
+The security camera turns ON whenever motion is detected or the entrance door is opened. The camera turns OFF when no motion is detected and the door remains closed.
 
 ### Smart Street Lighting
 - Motion Detector
 - Smart Street Light
 
-**Function:**
-Street light turns ON only when motion is detected, reducing power consumption.
-
----
+**Function:**  
+The street light automatically turns ON when motion is detected and turns OFF when the area becomes vacant, reducing power consumption.
 
 ### Restricted Area
 - Motion Detector
 - Warning Light
 - Emergency Siren
 
-**Function:**
-Unauthorized motion activates both the warning light and emergency siren.
+**Function:**  
+Whenever motion is detected in the restricted area, both the warning light and emergency siren are activated. They automatically turn OFF once the area becomes clear.
 
 ---
 
@@ -58,20 +65,20 @@ Unauthorized motion activates both the warning light and emergency siren.
 - Cisco Packet Tracer
 - DLC100 Central IoT Gateway
 - Smartphone (Administrator Mobile)
-- Motion Detectors (3)
-- Security Camera
-- Automatic Door
+- Motion Detectors
+- Automatic Entrance Door
+- Security Camera (Webcam)
 - Smart Street Light
 - Warning Light
-- Siren
+- Emergency Siren
 
 ---
 
 ## Repository Contents
 
 - Smart City Monitoring and Automation System.pkt
-- Simulated circuit screenshot.png
 - System Architecture.png
+- Simulated circuit screenshot.png
 - Video Demo IIoT.mp4
 
 ---
@@ -80,8 +87,10 @@ Unauthorized motion activates both the warning light and emergency siren.
 
 **Dhatchanamurthy U**
 
-VIT Chennai
-
 B.Tech Electronics and Communication Engineering
 
-Industrial Internet of Things – L&T EduTech
+VIT Chennai
+
+**Course:** Certificate in Industrial IoT Architecture and Applications
+
+**Organization:** L&T EduTech
