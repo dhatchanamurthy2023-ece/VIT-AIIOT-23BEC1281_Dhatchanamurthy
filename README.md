@@ -7,7 +7,7 @@ The demonstration video is included in this repository as **Video Demo IIoT.mp4*
 If the video preview is not available in GitHub, you can watch or download it using the Google Drive link below:
 
 **Google Drive:**  
-https://drive.google.com/file/d/1q_U8FTuyeudwHykjavoy5ibFnU8Utwjw/view?usp=sharing
+https://drive.google.com/file/d/1q_U8FTuyeudwHykjavoy5ibFnU8Utwjw/view?usp=sharing](https://drive.google.com/drive/folders/10zXQLPAjaSVwy9ty4BFwGixdWxaEeTDW?usp=sharing
 
 ### Cisco Packet Tracer Project
 
